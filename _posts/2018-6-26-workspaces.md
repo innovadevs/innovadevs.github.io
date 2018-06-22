@@ -1,4 +1,4 @@
 ﻿---
 layout: post
-title: Area de Trabajos
+title: Espacios de Trabajos
 ---
