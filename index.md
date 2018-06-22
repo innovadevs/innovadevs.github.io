@@ -2,19 +2,6 @@
 layout: default
 ---
 
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <title>Hola HTML</title>
-  </head>
-  <body>
-    <p>Hola Mundo!</p>
-  </body>
-</html>
-
-
 El primer paso para aprender Fusion 360 es comprender las piezas con las que interactúas. Comenzar con una amplia descripción general del diseño del software le ayuda a ponerse al día rápidamente.
 
 La información que se encuentra en esta sección tiene como objetivo proporcionar un mayor nivel de comprensión sobre Fusion y sus capacidades. La información detallada con texto y video se organiza contextualmente a lo largo de la ayuda.  
