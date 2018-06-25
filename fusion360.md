@@ -20,7 +20,7 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
 * [Vistas en el lienzo](https://innovadevs.github.io/canvas/)  
      Habilitar múltiples ventanas gráficas para ver los cambios desde otras posiciones de la cámara  
      
-* [Espacios de trabajo](https://innovadevs.github.io/404)  
+* [Espacios de trabajo](https://innovadevs.github.io/workspaces/)  
      Este tema explica los espacios de trabajo en Fusion 360  
      
 * [Estrategias de diseño](https://innovadevs.github.io/404)  
