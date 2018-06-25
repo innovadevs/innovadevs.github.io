@@ -12,4 +12,5 @@ layout: default
 Aca podras encontrar tutoriales de modelado 3D, Programacion, Codigos, Ejemplos y Tecnoligia. _**No dudes en preguntar**_  
   
   [Don't CLick Me](https://innovadevs.github.io/3dview)
-## **En Construccion**
+## **En Construccion**  
+## **[Ve al Blog](https://innovadevs.github.io/blog)
