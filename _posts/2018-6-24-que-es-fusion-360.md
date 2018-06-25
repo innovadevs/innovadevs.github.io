@@ -6,8 +6,9 @@ title: Que es Fusion 360?
 Fusion 360 es una herramienta CAD / CAM / CAE basada en la nube, para el desarrollo colaborativo de productos. Combina modelado orgánico rápido y fácil con modelado sólido preciso, lo que le permite hacer sus diseños fabricables en la vida real.  
   
   
-## Autodesk Fusion 360 tiene 3 características principales:
- 1.  Potente: Completo diseño 3D desarrollado en la nube  
+## Autodesk Fusion 360 tiene 3 características principales:  
+
+ 1. Potente: Completo diseño 3D desarrollado en la nube  
     * Cree diseños 3D orgánicos con el modelado de formas libres, superficies y sólidos en una aplicación integrada.  
     * Deje que la nube haga el trabajo pesado para que su MAC o su PC pueda funcionar como se supone que debe.  
     * Abra, edite y guarde los diseños en los formatos más comunes.  
