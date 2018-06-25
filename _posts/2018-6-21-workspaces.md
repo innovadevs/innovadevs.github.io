@@ -7,7 +7,8 @@ Fusion 360 tiene más capacidades que el software CAD tradicional. Para simplifi
   
   
   
-    
+  
+  
 [![Workspaces](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/images/worspaces.png)](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/images/worspaces.png)
   
   1. Model  
