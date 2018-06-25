@@ -7,7 +7,7 @@ Conozca las áreas clave de Fusion 360.
 
 [![interfaz](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/images/interfaz.png)](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/images/interfaz.png)  
   
-  1. Barra de Aplicaciones  
+  1. *Barra de Aplicaciones*  
      Acceso al Panel de datos (que permite un acceso rápido a sus archivos de diseño), operaciones de archivos, guardar, deshacer y rehacer.  
     
   2. Perfil y Ayuda  
