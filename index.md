@@ -9,7 +9,6 @@ layout: default
   
   
 
-Aca podras encontrar tutoriales de modelado 3D, Programacion, Codigos, Ejemplos y Tecnoligia  
-No dudes en preguntar  
+Aca podras encontrar tutoriales de modelado 3D, Programacion, Codigos, Ejemplos y Tecnoligia. _**No dudes en preguntar**_  
   
 ## **En Construccion**
