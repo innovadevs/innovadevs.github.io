@@ -13,14 +13,14 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
 * [Que es Fusion 360](https://innovadevs.github.io/404)  
      Breve introduccion a lo que es Fusion360  
     
-* [Resumen de la interfaz de usuario](https://innovadevs.github.io/404)
+* [Resumen de la interfaz de usuario](https://innovadevs.github.io/404)  
      Conozca las áreas clave de Fusion 360  
      
-* [Vistas en el lienzo](https://innovadevs.github.io/404)
+* [Vistas en el lienzo](https://innovadevs.github.io/404)  
      Habilitar múltiples ventanas gráficas para ver los cambios desde otras posiciones de la cámara  
      
-* [Espacios de trabajo](https://innovadevs.github.io/404)
+* [Espacios de trabajo](https://innovadevs.github.io/404)  
      Este tema explica los espacios de trabajo en Fusion 360  
      
-* [Estrategias de diseño](https://innovadevs.github.io/404)
+* [Estrategias de diseño](https://innovadevs.github.io/404)  
      Aprende sobre la metodología de diseño descendente, estructuras de archivos, cuerpos y componentes, grupos rígidos, articulaciones, articulaciones de construcción y conjuntos de contactos
