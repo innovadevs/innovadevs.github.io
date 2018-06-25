@@ -5,6 +5,9 @@ title: Espacios de Trabajos
 ## Qué son espacios de trabajo?
 Fusion 360 tiene más capacidades que el software CAD típico. Para simplificar tu experiencia con la interfaz, las capacidades se agrupan en varios espacios de trabajo. Estos espacios de trabajo organizan herramientas y comandos de acuerdo a objetivos de diseños particulares. Cada espacio de trabajo tiene una barra de herramientas única en la parte superior. Sin embargo, ciertos menús y sus comandos se repiten en múltiples espacios de trabajo. Actualmente, los siguientes espacios de trabajo están disponibles en **Fusion 360**.  
   
+    
+    ![Workspaces](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/images/worspaces.png)
+  
   1. Model  
   El espacio de trabajo MODEL le permite crear y editar geometría 3D sólida. Este espacio de trabajo se parece más a un entorno CAD 3D tradicional. Además de las funciones de modelado estándar, como extrusión o revolución.  
     
