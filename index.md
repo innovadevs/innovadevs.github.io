@@ -13,6 +13,6 @@ Aca podras encontrar tutoriales de modelado 3D, Programacion, Codigos, Ejemplos 
   
   [Don't CLick Me](https://innovadevs.github.io/3dview)
 ## **En Construccion**  
-## [**Empieza Aqui**](https://innovadevs.github.io/blog)  
+## [**Empieza Aqui**](https://innovadevs.github.io/fusion)  
 ## **O**
 ## [**Ve al Blog**](https://innovadevs.github.io/blog)
