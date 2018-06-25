@@ -41,5 +41,5 @@ Fusion 360 tiene más capacidades que el software CAD típico. Para simplificar 
   Cree dibujos 2D estándar a partir de su geometría 3D ingresando al espacio de trabajo DIBUJO.  
   
     
-    **Nota**: Algunos espacios de trabajos estan ocultos y solo pueden ser habilitados cumpliendo ciertas condiciones, estos no sera revisados en este tutrial basico.  
+    **Nota**: Algunos espacios de trabajos estan ocultos y solo pueden ser habilitados cumpliendo ciertas condiciones, estos no seras discutidos en esta entrega.  
     
