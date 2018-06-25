@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Introduccion a Fusion 360!
+title: Fusion 360
+permalink: /Fusion 360/
 ---
 El primer paso para aprender Fusion 360 es comprender las piezas con las que interactúas. Comenzar con una amplia descripción general del diseño del software le ayuda a ponerse al día rápidamente.
 
