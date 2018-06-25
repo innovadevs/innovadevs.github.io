@@ -10,7 +10,7 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
   
 ## Temas a tratar:
 
-* [Que es Fusion 360](https://innovadevs.github.io/404)  
+* [Que es Fusion 360](https://innovadevs.github.io/que-es-fusion-360/)  
      Breve introduccion a lo que es Fusion360  
     
 * [Resumen de la interfaz de usuario](https://innovadevs.github.io/404)  
