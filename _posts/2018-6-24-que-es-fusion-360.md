@@ -23,6 +23,6 @@ Fusion 360 es una herramienta CAD / CAM / CAE basada en la nube, para el desarro
     * Haga realidad sus ideas de diseño más rápido con una interfaz intuitiva.  
       
         
-        **Nota: Activar subtitulos**  
+ **Nota: Activar subtitulos**  
         
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ysm1gKnDHj0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
