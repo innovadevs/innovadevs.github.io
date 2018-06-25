@@ -17,7 +17,7 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
 * [Resumen de la interfaz de usuario](https://innovadevs.github.io/interfaz/)  
      Conozca las áreas clave de Fusion 360  
      
-* [Vistas en el lienzo](https://innovadevs.github.io/404)  
+* [Vistas en el lienzo](https://innovadevs.github.io/canvas/)  
      Habilitar múltiples ventanas gráficas para ver los cambios desde otras posiciones de la cámara  
      
 * [Espacios de trabajo](https://innovadevs.github.io/404)  
