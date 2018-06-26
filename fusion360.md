@@ -10,15 +10,15 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
   
   
 ## Temas a tratar:
-
-* [Que es Fusion 360](https://innovadevs.github.io/que-es-fusion-360/)  
+* Conozca Fusion 360
+    * [Que es Fusion 360](https://innovadevs.github.io/que-es-fusion-360/)  
      Breve introduccion a lo que es Fusion360  
     
-* [Resumen de la interfaz de usuario](https://innovadevs.github.io/interfaz/)  
+    * [Resumen de la interfaz de usuario](https://innovadevs.github.io/interfaz/)  
      Conozca las áreas clave de Fusion 360  
      
-* [Vistas en el lienzo](https://innovadevs.github.io/canvas/)  
+    * [Vistas en el lienzo](https://innovadevs.github.io/canvas/)  
      Habilitar múltiples ventanas gráficas para ver los cambios desde otras posiciones de la cámara  
      
-* [Espacios de trabajo](https://innovadevs.github.io/workspaces/)  
+    * [Espacios de trabajo](https://innovadevs.github.io/workspaces/)  
      Este tema explica los espacios de trabajo en Fusion 360  
