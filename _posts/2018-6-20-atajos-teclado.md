@@ -34,4 +34,10 @@ Scripts and Add-ins|	Shift + S
 Window Selection	|1
 Freeform Selection	|2
 Paint Selection	|3
-Delete	|Del
+Delete	|Del  
+  
+    
+System Keyboard Shortcuts	|Windows Key Combinations	|Mac Key Combinations
+----------------------------|---------------------------|-------------------------
+Create Version	|Ctrl + S	|Command + S
+Recovery Save	|Ctrl + Shift + S	|Command + Shift + S
