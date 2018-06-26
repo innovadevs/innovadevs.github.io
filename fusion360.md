@@ -22,3 +22,34 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
      
     * [Espacios de trabajo](https://innovadevs.github.io/workspaces/)  
      Este tema explica los espacios de trabajo en Fusion 360  
+  
+  * Interactuando con Fusion 360
+  
+Command | Key Combinations
+--------|-------------------
+Extrude	  |   E
+Hole	H
+Press Pull	Q
+Model Fillet	F
+Move	M
+Toggle Visibility	V
+Toggle Component Color Cycling	Shift + N
+Model Toolbox	S
+Appearance	A
+Compute All	Crtl + B (Windows) or Command + B (Mac)
+Joint	J
+As-built Joint	Shift + J
+Line	L
+2-point Rectangle	R
+Center Diameter Circle	C
+Trim	T
+Offset	O
+Measure	I
+Project	P
+Normal / Construction	X
+Sketch Dimension	D
+Scripts and Add-ins	Shift + S
+Window Selection	1
+Freeform Selection	2
+Paint Selection	3
+Delete	Del
