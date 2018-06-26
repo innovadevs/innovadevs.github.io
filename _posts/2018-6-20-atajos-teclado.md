@@ -36,7 +36,8 @@ Freeform Selection	|2
 Paint Selection	|3
 Delete	|Del  
   
-    
+  
+  
 System Keyboard Shortcuts	|Windows Key Combinations	|Mac Key Combinations
 ----------------------------|---------------------------|-------------------------
 Create Version	|Ctrl + S	|Command + S
