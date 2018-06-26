@@ -22,6 +22,3 @@ La información que se encuentra en esta sección tiene como objetivo proporcion
      
 * [Espacios de trabajo](https://innovadevs.github.io/workspaces/)  
      Este tema explica los espacios de trabajo en Fusion 360  
-     
-* [Estrategias de diseño](https://innovadevs.github.io/404)  
-     Aprende sobre la metodología de diseño descendente, estructuras de archivos, cuerpos y componentes, grupos rígidos, articulaciones, articulaciones de construcción y conjuntos de contactos
