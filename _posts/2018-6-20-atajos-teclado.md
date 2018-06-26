@@ -3,9 +3,10 @@ layout: post
 title: Atajos del Teclado
 ---
 This section provides an overview of the keyboard shortcuts.  
-You can also download a PDF version [Aqui](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/documentos/shortcuts.pdf)
+You can also download a PDF version [Aqui](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/documentos/shortcuts.pdf)  
   
-  
+![Shortcut](https://raw.githubusercontent.com/innovadevs/innovadevs.github.io/master/images/shortcut.png)
+
 Command | Key Combinations
 --------|--------
 Extrude	  |   E
