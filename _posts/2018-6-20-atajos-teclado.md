@@ -41,4 +41,9 @@ Delete	|Del
 System Keyboard Shortcuts	|Windows Key Combinations	|Mac Key Combinations
 ----------------------------|---------------------------|-------------------------
 Create Version	|Ctrl + S	|Command + S
-Recovery Save	|Ctrl + Shift + S	|Command + Shift + S
+Recovery Save	|Ctrl + Shift + S	|Command + Shift + S  
+  
+      
+Shortcuts for switching workspaces
+------
+You can now switch workspaces with CTRL + Leftbracket and CTRL + Rightbracket key combos. This will take you through the next and previous workspace in the order it is listed in the workspace switcher.
