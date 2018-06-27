@@ -13,8 +13,7 @@ Aca podras encontrar tutoriales de modelado 3D, Programacion, Codigos, Ejemplos 
   
   [Don't CLick Me](https://innovadevs.github.io/3dview)  
   
-  <a href="https://innovadevs.github.io/3dview" target="_blank">Don't CLick Me</a>  
-[Don't CLick Me](https://innovadevs.github.io/3dview){:target="_blank"}  
+  <a href="https://innovadevs.github.io/3dview" target="_blank">Don't CLick Me</a>    
 ## **En Construccion**  
 ## [**Empieza Aqui**](https://innovadevs.github.io/fusion)  
 ## **O**
